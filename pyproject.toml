@@ -4,4 +4,13 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "aiotorrent>=0.9.2",
+    "docker>=7.1.0",
+    "gitpython>=3.1.46",
+    "go-task-bin>=3.48.0",
+    "paramiko>=4.0.0",
+    "podman>=5.7.0",
+    "pygithub>=2.8.1",
+    "requests>=2.32.5",
+]

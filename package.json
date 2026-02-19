@@ -27,6 +27,7 @@
     "husky": "^9.1.7",
     "octokit": "^5.0.5",
     "ollama": "^0.6.3",
+    "openclaw": "^2026.2.17",
     "opentimestamp": "^0.1.8",
     "socket.io": "^4.8.3"
   }

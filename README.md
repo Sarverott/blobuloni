@@ -1,0 +1,1 @@
+torrent helper to manage common stuff with iso files with OS images, appimages of opSor tools and even independent LLMs outside standard centralized providing chain
